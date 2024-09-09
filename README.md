@@ -49,4 +49,4 @@ O projeto consiste em automatizar a extração dos dados de um arquivo .csv dent
 ### Conclusão
 
 A escolha do  insert incremental ou por truncate (limpar tabelas existentes) vai depender da necessidade do negócio. Neste caso, foi usado a forma de inputar todos os dados do arquivo, levando cerca de alguns segundos para a realização da tarefa.
-Existe outras formas e feramentas que chagam neste mesmo objetivo, poré, o principal objetivo aqui é o desenvolvimento do conhecimento.
+Existe outras formas e feramentas que chagam neste mesmo objetivo, porém, o principal objetivo aqui é o desenvolvimento do conhecimento.
